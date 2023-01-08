@@ -1,0 +1,7 @@
+start
+    integer num, sum;
+    character ch;
+    sum <- 0;
+    num <- 1;
+    ch <- "a";
+finish
